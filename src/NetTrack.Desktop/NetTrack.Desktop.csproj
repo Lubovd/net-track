@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>NetTrack.Desktop</RootNamespace>
+    <AssemblyName>NetTrack</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NetTrack.Core\NetTrack.Core.csproj" />
+  </ItemGroup>
+</Project>

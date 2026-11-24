@@ -1,0 +1,12 @@
+bin/
+obj/
+dist/
+TestResults/
+.vs/
+*.user
+*.suo
+*.db
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+*.log

@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NetTrack.Core/NetTrack.Core.csproj" />
+    <Project Path="src/NetTrack.Cli/NetTrack.Cli.csproj" />
+    <Project Path="src/NetTrack.Desktop/NetTrack.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NetTrack.Core.Tests/NetTrack.Core.Tests.csproj" />
+    <Project Path="tests/NetTrack.Cli.Tests/NetTrack.Cli.Tests.csproj" />
+    <Project Path="tests/NetTrack.Desktop.Tests/NetTrack.Desktop.Tests.csproj" />
+    <Project Path="tests/NetTrack.IntegrationTests/NetTrack.IntegrationTests.csproj" />
+  </Folder>
+</Solution>

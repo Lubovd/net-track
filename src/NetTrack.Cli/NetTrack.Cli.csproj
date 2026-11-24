@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>NetTrack.Cli</RootNamespace>
+    <AssemblyName>net-track</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NetTrack.Core\NetTrack.Core.csproj" />
+  </ItemGroup>
+</Project>
