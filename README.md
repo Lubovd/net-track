@@ -31,3 +31,7 @@ dotnet test NetTrack.slnx --configuration Release
 ```
 
 测试使用临时目录、模拟连接快照或隔离测试管道。
+
+## 许可证
+
+NetTrack 源码采用 [MIT 许可证](LICENSE)。
